@@ -1,0 +1,8 @@
+{
+	"sourcedir": "C:\\TEMP\\objtest\\source",
+	"targetdirs": [
+		"C:\\TEMP\\objtest\\target1",
+		"C:\\TEMP\\objtest\\target2",
+		"C:\\TEMP\\objtest\\target3"
+	]
+}
